@@ -1,5 +1,5 @@
-from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
 
 from state import AgentState
 
@@ -17,8 +17,7 @@ def strategist_node(state: AgentState):
     # We use Gemini 3 Flash: it's free and perfect for reasoning
     llm = ChatGoogleGenerativeAI(
         model="gemini-3-flash-preview", 
-        temperature=0,
-        google_api_key="AIzaSyC3vIJXkAkAadY2RSDdxhnN5LvX_ZfbHwM"
+        temperature=0
     )
     
     market_summary = str(state['market_data'])
@@ -34,7 +33,7 @@ def strategist_node(state: AgentState):
         Return a list of Alpha Signals.
     """)
     
-    chain = prompt | llm
+    chain = prompt | llm | StrOutputParser()
     response = chain.invoke({"market_data": market_summary, "news_headlines": news_summary})
     
-    return {"signals": [response.content]}
+    return {"signals": [response]}
