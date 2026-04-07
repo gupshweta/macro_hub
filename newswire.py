@@ -1,5 +1,5 @@
+import re
 from langchain_community.tools import DuckDuckGoSearchResults
-from regex import search
 from state import AgentState
 import json
 
@@ -48,7 +48,6 @@ def news_wire_node(state: AgentState):
         if selected_date:
             filtered_news = []
             for item in news_items:
-                import re
                 if isinstance(item, dict):
                     headline = item['headline']
                 else:
