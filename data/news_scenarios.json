@@ -1,0 +1,304 @@
+{
+  "scenarios": [
+    {
+      "name": "2008 Financial Crisis",
+      "date": "2010-01-15",
+      "blurb": "The 2008 financial crisis began with the collapse of Lehman Brothers. Markets are in freefall with major banks failing and global credit markets freezing. This scenario shows extreme volatility and risk-off moves across assets.",
+      "news": [
+        {
+          "headline": "[2008-09-15] Lehman Brothers Files for Bankruptcy, Largest in U.S. History",
+          "summary": "Lehman Brothers, the fourth-largest investment bank in the US, filed for Chapter 11 bankruptcy protection, marking the largest bankruptcy filing in American history with $639 billion in assets. The collapse sent shockwaves through global financial markets.",
+          "source": "Reuters"
+        },
+        {
+          "headline": "[2008-09-16] AIG Seeks $40 Billion Federal Bailout as Credit Crisis Deepens",
+          "summary": "Insurance giant AIG requested an $40 billion emergency loan from the Federal Reserve to avoid collapse, highlighting the severity of the credit crisis. The government took an 80% stake in the company.",
+          "source": "Bloomberg"
+        },
+        {
+          "headline": "[2008-09-17] Stock Markets Plunge Worldwide on Fears of Global Recession",
+          "summary": "Global stock markets experienced their worst single-day losses in years, with the Dow Jones falling 4.4% and European markets dropping sharply amid fears of a worldwide recession.",
+          "source": "Financial Times"
+        },
+        {
+          "headline": "[2008-09-18] U.S. Government Announces $700 Billion Bailout Plan",
+          "summary": "Treasury Secretary Henry Paulson unveiled a $700 billion plan to buy troubled assets from banks, aiming to stabilize the financial system and prevent further bank failures.",
+          "source": "Wall Street Journal"
+        },
+        {
+          "headline": "[2008-09-19] Gold Prices Surge as Investors Flee to Safe Haven Assets",
+          "summary": "Gold prices jumped 4.5% to reach a 28-year high as investors sought safe-haven assets amid the deepening financial crisis, with spot gold trading above $900 per ounce.",
+          "source": "CNBC"
+        },
+        {
+          "headline": "[2008-09-20] Washington Mutual Bank Seized by Regulators",
+          "summary": "Washington Mutual, the largest savings and loan in the US, was seized by federal regulators and sold to JPMorgan Chase in the biggest bank failure in American history.",
+          "source": "Associated Press"
+        },
+        {
+          "headline": "[2008-09-21] Fed Cuts Interest Rates to Near Zero",
+          "summary": "The Federal Reserve slashed its benchmark interest rate by 50 basis points to 2%, signaling aggressive action to combat the financial crisis and support economic growth.",
+          "source": "New York Times"
+        },
+        {
+          "headline": "[2008-09-22] Money Market Funds Face Massive Withdrawals",
+          "summary": "Investors withdrew $144.5 billion from money market mutual funds in a single week, the largest outflow ever recorded, as confidence in these traditionally safe investments eroded.",
+          "source": "Bloomberg"
+        },
+        {
+          "headline": "[2008-09-23] Congress Rejects Initial Bailout Bill",
+          "summary": "The House of Representatives voted down the $700 billion bailout plan, sending stocks plunging further and raising concerns about the government's ability to stabilize markets.",
+          "source": "Reuters"
+        },
+        {
+          "headline": "[2008-09-24] Global Central Banks Coordinate Rate Cuts",
+          "summary": "Central banks worldwide, including the ECB, Bank of England, and Bank of Canada, announced coordinated interest rate cuts to address the global financial crisis.",
+          "source": "BBC News"
+        }
+      ]
+    },
+    {
+      "name": "2020 COVID-19 Crash",
+      "date": "2020-03-16",
+      "blurb": "The COVID-19 pandemic triggers a global market crash. Lockdowns and economic shutdowns cause unprecedented volatility. Tech stocks lead the decline while gold and bonds rally.",
+      "news": [
+        {
+          "headline": "[2020-03-11] WHO Declares COVID-19 a Global Pandemic",
+          "summary": "The World Health Organization officially classified COVID-19 as a pandemic, warning that the virus had spread to over 110 countries with no immediate end in sight.",
+          "source": "WHO"
+        },
+        {
+          "headline": "[2020-03-12] Stock Markets Crash as Virus Spreads Globally",
+          "summary": "Global stock markets suffered their worst day since 1987, with the Dow Jones falling 9.99% and European markets dropping over 11% as coronavirus fears intensified.",
+          "source": "CNN"
+        },
+        {
+          "headline": "[2020-03-13] Oil Prices Turn Negative for First Time in History",
+          "summary": "West Texas Intermediate crude futures settled at negative $37.63 per barrel, the first time oil prices have gone negative, due to storage constraints and collapsing demand.",
+          "source": "Reuters"
+        },
+        {
+          "headline": "[2020-03-15] Federal Reserve Announces Unlimited Quantitative Easing",
+          "summary": "The Fed launched unlimited quantitative easing and cut rates to near zero, pledging to buy Treasury securities and mortgage-backed securities without limit to support markets.",
+          "source": "Federal Reserve"
+        },
+        {
+          "headline": "[2020-03-16] Cryptocurrency Prices Volatile Amid Market Turmoil",
+          "summary": "Bitcoin and other cryptocurrencies experienced extreme volatility, with Bitcoin dropping below $4,000 before recovering, as investors sought digital assets as alternative stores of value.",
+          "source": "CoinDesk"
+        },
+        {
+          "headline": "[2020-03-17] U.S. Issues Travel Ban on Europe",
+          "summary": "President Trump announced a 30-day travel ban on most European countries to contain the spread of COVID-19, further disrupting global supply chains and economic activity.",
+          "source": "White House"
+        },
+        {
+          "headline": "[2020-03-18] Airlines Ground Fleets as Demand Plummets",
+          "summary": "Major airlines worldwide grounded significant portions of their fleets as passenger demand collapsed, with American Airlines and Delta announcing plans to park thousands of planes.",
+          "source": "Bloomberg"
+        },
+        {
+          "headline": "[2020-03-19] Fed Creates Commercial Paper Funding Facility",
+          "summary": "The Federal Reserve established a $1 trillion Commercial Paper Funding Facility to provide liquidity to corporations unable to access short-term funding markets.",
+          "source": "Federal Reserve"
+        },
+        {
+          "headline": "[2020-03-20] VIX Hits Record High Above 80",
+          "summary": "The CBOE Volatility Index surged to 82.69, its highest level ever, reflecting extreme market uncertainty and fear during the COVID-19 crisis.",
+          "source": "CBOE"
+        },
+        {
+          "headline": "[2020-03-21] OPEC+ Agrees to Historic Production Cuts",
+          "summary": "OPEC and allied producers agreed to cut oil production by 9.7 million barrels per day, the largest such agreement in history, to stabilize prices amid pandemic demand destruction.",
+          "source": "OPEC"
+        }
+      ]
+    },
+    {
+      "name": "Dot-com Bubble Burst",
+      "date": "2000-03-10",
+      "blurb": "The dot-com bubble bursts as tech stocks collapse. Nasdaq falls sharply while traditional assets remain stable. This highlights sector-specific volatility.",
+      "news": [
+        {
+          "headline": "[2000-03-10] Nasdaq Composite Falls 10% in Single Day",
+          "summary": "The Nasdaq Composite Index plunged 10.2%, its worst single-day drop in two years, as technology stocks continued their steep decline amid the bursting dot-com bubble.",
+          "source": "Wall Street Journal"
+        },
+        {
+          "headline": "[2000-03-11] Tech Giants Like Cisco and Intel Plummet",
+          "summary": "Shares of major technology companies fell sharply, with Cisco dropping 19% and Intel falling 15%, reflecting investor concerns about overvaluation in the tech sector.",
+          "source": "Reuters"
+        },
+        {
+          "headline": "[2000-03-12] Dot-com Companies Face Mass Layoffs",
+          "summary": "Internet companies announced thousands of layoffs as venture capital funding dried up, with companies like Pets.com and Webvan shutting down operations.",
+          "source": "New York Times"
+        },
+        {
+          "headline": "[2000-03-13] Federal Reserve Cuts Rates to Combat Slowdown",
+          "summary": "The Federal Reserve lowered interest rates by 0.5% to 6%, the first rate cut in three years, in an effort to stimulate economic growth amid the tech downturn.",
+          "source": "Federal Reserve"
+        },
+        {
+          "headline": "[2000-03-14] Gold and Bonds See Modest Gains",
+          "summary": "Gold prices rose 1.2% while U.S. Treasury bonds gained as investors moved toward safer assets during the market turmoil.",
+          "source": "Bloomberg"
+        },
+        {
+          "headline": "[2000-03-15] IPO Market Freezes as Investors Shun Tech Stocks",
+          "summary": "The initial public offering market came to a standstill as investors avoided new tech offerings, with several planned IPOs postponed indefinitely.",
+          "source": "Forbes"
+        },
+        {
+          "headline": "[2000-03-16] Venture Capital Funding Drops Sharply",
+          "summary": "Venture capital investments in technology startups fell 30% year-over-year as investors became more cautious about funding unproven internet companies.",
+          "source": "VentureBeat"
+        },
+        {
+          "headline": "[2000-03-17] Amazon Stock Falls Below IPO Price",
+          "summary": "Amazon's stock price dropped below its initial public offering price for the first time, signaling the end of the dot-com euphoria.",
+          "source": "CNBC"
+        },
+        {
+          "headline": "[2000-03-18] Telecom Stocks Hit Hard by Downturn",
+          "summary": "Telecommunications companies suffered significant losses as the broader tech selloff impacted infrastructure providers and equipment manufacturers.",
+          "source": "Telecom News"
+        },
+        {
+          "headline": "[2000-03-19] Market Cap of Tech Sector Shrinks by $1 Trillion",
+          "summary": "The total market capitalization of technology companies decreased by approximately $1 trillion since its peak, representing a massive destruction of wealth.",
+          "source": "Financial Times"
+        }
+      ]
+    },
+    {
+      "name": "Eurozone Crisis",
+      "date": "2011-08-05",
+      "blurb": "European debt crisis intensifies with Greece on brink of default. EUR/USD falls sharply while safe haven assets like gold and yen rally.",
+      "news": [
+        {
+          "headline": "[2011-08-01] Greece Debt Crisis Escalates, Contagion Fears Rise",
+          "summary": "Greece's debt restructuring talks failed, raising fears of default and potential contagion to other eurozone countries like Italy and Spain.",
+          "source": "Reuters"
+        },
+        {
+          "headline": "[2011-08-02] EUR/USD Drops Below 1.40 Parity",
+          "summary": "The euro fell below $1.40 for the first time in over a year as investors fled the currency amid eurozone debt concerns.",
+          "source": "Bloomberg"
+        },
+        {
+          "headline": "[2011-08-03] European Central Bank Intervenes in Bond Markets",
+          "summary": "The ECB announced plans to buy Italian and Spanish bonds to stabilize markets, marking a significant escalation in the crisis response.",
+          "source": "Financial Times"
+        },
+        {
+          "headline": "[2011-08-04] Gold Hits New Highs Amid Uncertainty",
+          "summary": "Gold prices reached $1,700 per ounce, a new record, as investors sought safe-haven assets during the eurozone turmoil.",
+          "source": "CNBC"
+        },
+        {
+          "headline": "[2011-08-05] U.S. Stocks Decline on Global Growth Concerns",
+          "summary": "Major U.S. stock indices fell as worries about global economic slowdown intensified due to the European debt crisis.",
+          "source": "Wall Street Journal"
+        },
+        {
+          "headline": "[2011-08-06] S&P Downgrades U.S. Credit Rating",
+          "summary": "Standard & Poor's downgraded the U.S. credit rating from AAA to AA+, citing concerns over debt ceiling negotiations and fiscal policy.",
+          "source": "S&P Global"
+        },
+        {
+          "headline": "[2011-08-07] Merkel Calls for Fiscal Union",
+          "summary": "German Chancellor Angela Merkel proposed deeper fiscal integration among eurozone countries to resolve the debt crisis.",
+          "source": "BBC News"
+        },
+        {
+          "headline": "[2011-08-08] Italian Bond Yields Spike",
+          "summary": "Italian 10-year bond yields rose above 6%, approaching levels that forced bailouts in other countries.",
+          "source": "Reuters"
+        },
+        {
+          "headline": "[2011-08-09] Fed Signals More Stimulus",
+          "summary": "Federal Reserve Chairman Ben Bernanke indicated the Fed was prepared to take further action if economic conditions warranted.",
+          "source": "Federal Reserve"
+        },
+        {
+          "headline": "[2011-08-10] Eurozone Leaders Meet in Emergency Summit",
+          "summary": "European leaders held an emergency summit to discuss measures to contain the debt crisis and stabilize financial markets.",
+          "source": "European Council"
+        }
+      ]
+    },
+    {
+      "name": "Post-COVID Recovery",
+      "date": "2021-03-15",
+      "blurb": "Markets rebound strongly as vaccines roll out and economies reopen. Tech and cyclical stocks lead gains while inflation concerns emerge.",
+      "news": [
+        "[2021-03-10] Stock Markets Hit New Highs on Economic Reopening",
+        "[2021-03-11] Oil Prices Surge Past $60 as Demand Recovers",
+        "[2021-03-12] Bitcoin Reaches All-Time Highs",
+        "[2021-03-13] Supply Chain Bottlenecks Drive Commodity Prices",
+        "[2021-03-14] Fed Signals Potential Rate Hikes"
+      ]
+    },
+    {
+      "name": "Inflation Peak 2022",
+      "date": "2022-06-13",
+      "blurb": "Inflation reaches 40-year highs driving aggressive Fed tightening. Growth stocks sell off while value and commodities perform well.",
+      "news": [
+        "[2022-06-10] U.S. Inflation Hits 9.1%, Highest in 40 Years",
+        "[2022-06-11] Fed Raises Rates 75bps, Signals More Hikes",
+        "[2022-06-12] Tech Stocks Plunge on Higher Rates",
+        "[2022-06-13] Gold and Oil Prices Rise on Inflation Hedge",
+        "[2022-06-14] Emerging Market Currencies Weaken"
+      ]
+    },
+    {
+      "name": "Bull Market Peak 2021",
+      "date": "2021-11-08",
+      "blurb": "Markets reach euphoric highs with everything rallying. Cryptocurrencies and meme stocks at peaks while traditional valuation metrics ignored.",
+      "news": [
+        "[2021-11-08] S&P 500 Hits All-Time Highs for 70th Time This Year",
+        "[2021-11-09] Bitcoin Surpasses $60,000",
+        "[2021-11-10] Evergrande Crisis Sparks China Market Fears",
+        "[2021-11-11] Oil Prices Near $80 Amid Supply Constraints",
+        "[2021-11-12] Fed Maintains Easy Policy Despite Inflation"
+      ]
+    },
+    {
+      "name": "Brexit Referendum",
+      "date": "2016-06-24",
+      "blurb": "UK votes to leave EU causing immediate market turmoil. GBP/USD crashes while gold and yen rally as safe havens.",
+      "news": [
+        "[2016-06-24] UK Votes to Leave EU in Shock Referendum Result",
+        "[2016-06-24] GBP/USD Plunges 10% in Minutes",
+        "[2016-06-25] European Stocks Fall Sharply",
+        "[2016-06-26] Gold Jumps 5% on Uncertainty",
+        "[2016-06-27] Bank of England Announces Emergency Measures"
+      ]
+    },
+    {
+      "name": "Taper Tantrum 2013",
+      "date": "2013-05-22",
+      "blurb": "Fed signals end of QE causing bond yields to spike and emerging markets to sell off. USD strengthens while risk assets decline.",
+      "news": [
+        "[2013-05-22] Fed Chairman Hints at QE Tapering",
+        "[2013-05-23] US 10-year Yields Surge 100bps",
+        "[2013-05-24] Emerging Market Stocks and Currencies Plunge",
+        "[2013-05-25] Gold Prices Fall on USD Strength",
+        "[2013-05-26] Global Bond Markets in Turmoil"
+      ]
+    },
+    {
+      "name": "Japan Earthquake 2011",
+      "date": "2011-03-11",
+      "blurb": "Massive earthquake and tsunami hit Japan causing nuclear crisis. Yen strengthens while global markets react to supply chain disruptions.",
+      "news": [
+        "[2011-03-11] Magnitude 9.0 Earthquake Strikes Japan",
+        "[2011-03-12] Fukushima Nuclear Crisis Escalates",
+        "[2011-03-13] Yen Surges to 76 per USD",
+        "[2011-03-14] Oil Prices Spike on Supply Fears",
+        "[2011-03-15] Global Markets Volatile on Disaster Impact"
+      ]
+    }
+  ]
+}

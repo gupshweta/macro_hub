@@ -1,0 +1,13 @@
+yfinance
+pandas
+langgraph
+langchain-openai
+langchain-core
+python-dotenv
+langchain-google-genai
+streamlit
+chromadb
+beautifulsoup4
+lxml
+html5lib
+pydantic
